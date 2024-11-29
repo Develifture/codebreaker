@@ -1,25 +1,3 @@
-/******************************
-
-Script Function: Lookup Dictionary + Unlock Premium Features  
-Instructions: [Re-download the software, open the rules first, then open the software]    
-Software Version: Latest
-Script Author: Matt 👁️  
-Update Date: 2024/11/29
-TG Feedback Group: https://t.me/plus8889  
-Usage Statement: ⚠️This script is for learning and communication purposes only. Please do not redistribute or sell!⚠️⚠️⚠️
-
-*******************************
-
-[rewrite_local]
-
-https://buy.itunes.apple.com/verifyReceipt url script-response-body https://raw.githubusercontent.com/Develifture/codebreaker/refs/heads/main/LookupDict.js?token=GHSAT0AAAAAAC3FT64AYZ64QBRXXJJO3UB6Z2JCYQQ
-
-[mitm] 
-
-hostname = buy.itunes.apple.com
-
-*******************************/
-
 var objc = JSON.parse($response.body);
 
 objc = {
