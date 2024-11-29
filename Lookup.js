@@ -12,7 +12,7 @@ Usage Statement: ⚠️This script is for learning and communication purposes on
 
 [rewrite_local]
 
-https://buy.itunes.apple.com/verifyReceipt url script-response-body https://raw.githubusercontent.com/Develifture/codebreaker/refs/heads/main/Lookup.js?token=GHSAT0AAAAAACZDS3LXJXVSLIKUACY6J6ZGZ2JB4QQ
+https://buy.itunes.apple.com/verifyReceipt url script-response-body https://raw.githubusercontent.com/Develifture/codebreaker/refs/heads/1st/Loo.js?token=GHSAT0AAAAAACZDS3LXSHW2E3Y3Z2RCBJVWZ2JCB2A
 [mitm] 
 
 hostname = buy.itunes.apple.com
