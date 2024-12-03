@@ -12,7 +12,7 @@ Usage Statement: ⚠️This script is for learning and communication purposes on
 
 [rewrite_local]
 
-https://buy.itunes.apple.com/verifyReceipt url script-response-body https://raw.githubusercontent.com/Develifture/codebreaker/refs/heads/1st/Lookup.js?token=GHSAT0AAAAAAC3FT64AMW6IXZKTTYOMDQ3MZ2JC5YQ
+https://buy.itunes.apple.com/verifyReceipt url script-response-body https://raw.githubusercontent.com/Develifture/codebreaker/refs/heads/1st/Lookup.js
 
 [mitm] 
 
