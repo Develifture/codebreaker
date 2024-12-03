@@ -12,7 +12,7 @@ Usage Statement: ⚠️This script is for learning and communication purposes on
 
 [rewrite_local]
 
-https://appraven.net/appraven/graphql url script-response-body https://raw.githubusercontent.com/Develifture/codebreaker/refs/heads/1st/Appraven.js?token=GHSAT0AAAAAAC3FT64A7KVSVUEZNT2UHQV2Z2KIPLQ
+https://appraven.net/appraven/graphql url script-response-body https://raw.githubusercontent.com/Develifture/codebreaker/refs/heads/1st/Appraven.js
 
 [mitm] 
 
